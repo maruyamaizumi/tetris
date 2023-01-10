@@ -1,4 +1,4 @@
-# tetris
+# CANVAS要素を使ってtetris
 
 最低限の機能実装版です。
 
